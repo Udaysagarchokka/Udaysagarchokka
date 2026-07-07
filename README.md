@@ -42,13 +42,15 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Udaysagarchokka&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaysagarchokka&layout=compact&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Udaysagarchokka&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaysagarchokka&layout=compact" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udaysagarchokka&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Udaysagarchokka" alt="GitHub Streak" />
 </p>
+
+> ⚠️ Note: These are dynamically generated images from a free community-hosted service (Vercel). If they don't load immediately, refresh the page after a few seconds — this is a common, temporary hiccup with the service, not an issue with your file.
 
 ---
 
@@ -63,8 +65,10 @@
 ### 📌 Featured Projects
 
 - **Tic-Tac-Toe (Python)** — Implemented the Min-Max algorithm for unbeatable AI gameplay logic
-- **E-Commerce Website** — Front-end e-commerce project demonstrating structured web fundamentals
-- **Simple Server** — Basic server setup project
+- **File Encryptor (Java)** — A Java-based utility that automates file encryption for basic data security
+- **PST – Problem Solving & Testing (Java)** — A collection of Java programs focused on problem-solving logic and code testing
+- **Java Practice Codes** — A repository of Java programs covering core concepts and problem-solving exercises
+- **Python Practice Codes** — A repository of Python scripts automating small everyday tasks and reinforcing core logic
 
 ---
 
