@@ -50,7 +50,7 @@
   <img src="https://streak-stats.demolab.com/?user=Udaysagarchokka" alt="GitHub Streak" />
 </p>
 
-> ⚠️ Note: These are dynamically generated images from a free community-hosted service (Vercel). If they don't load immediately, refresh the page after a few seconds — this is a common, temporary hiccup with the service, not an issue with your file.
+
 
 ---
 
